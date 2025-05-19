@@ -31,3 +31,44 @@ This is a complete front-end project for a fictional meal delivery company calle
 ---
 
 ## 📁 Project Structure
+
+Omnifood/
+
+├── index.html
+
+├── css/
+
+│ ├── general.css
+
+│ ├── queries.css
+
+│ └── style.css
+
+├── js/
+
+│ └── script.js
+
+├── img/
+
+│ ├── hero/
+
+│ ├── meals/
+
+│ ├── customers/
+
+│ ├── app/
+
+│ └── logos/
+
+├── manifest.webmanifest
+
+├── README.md
+
+---
+
+## 📌 Notes
+
+- This is a front-end-only static website.  
+- No backend or database is included.  
+- All layout and interaction are handled with plain HTML, CSS, and JavaScript.  
+- Project created for learning and practice purposes.
