@@ -68,7 +68,7 @@ Omnifood/
 
 ## 📌 Notes
 
-- This is a front-end-only static website.  
+- This is a front-end-only website.  
 - No backend or database is included.  
 - All layout and interaction are handled with plain HTML, CSS, and JavaScript.  
 - Project created for learning and practice purposes.
