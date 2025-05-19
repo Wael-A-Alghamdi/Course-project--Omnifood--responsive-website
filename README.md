@@ -4,9 +4,8 @@ This is a complete front-end project for a fictional meal delivery company calle
 
 ---
 
-## 🌐 Live Preview
-
-You can host the `index.html` file using GitHub Pages or any static server to preview the full responsive website.
+## 🔗 Omnifood Website link
+[Website link](https://omnifood-wael.netlify.app/)
 
 ---
 
