@@ -4,12 +4,12 @@ This is a complete front-end project for a fictional meal delivery company calle
 
 ---
 
-## 🔗 Omnifood Website link
+##  Omnifood Website link
 [Website link](https://omnifood-wael.netlify.app/)
 
 ---
 
-## 🛠 Tech Used
+##  Tech Used
 
 - HTML5  
 - CSS3 (Flexbox, Grid, Media Queries)  
@@ -17,7 +17,7 @@ This is a complete front-end project for a fictional meal delivery company calle
 
 ---
 
-## 📱 Features
+##  Features
 
 - Responsive design for mobile, tablet, and desktop  
 - Sticky navigation bar  
@@ -30,7 +30,7 @@ This is a complete front-end project for a fictional meal delivery company calle
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 Omnifood/
 
@@ -66,7 +66,7 @@ Omnifood/
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This is a front-end-only website.  
 - No backend or database is included.  
